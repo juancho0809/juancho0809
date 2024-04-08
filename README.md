@@ -2,11 +2,11 @@
 
 - Located in Colombia 
 - Studying in Universidad Distrital Francisco Jose de Caldas
-- French, German, Spanish and English
-- I like animes series
+- French:fr:, German:de:, Spanish:es: and English:us:
+- I like animes series 
 - Contact me through LinkedIn and Instagram
 
-![Luffy](gif.webp)
+![Gojo](gif.webp)
 
 <!--
 **juancho0809/juancho0809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
