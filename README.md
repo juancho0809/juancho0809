@@ -2,7 +2,7 @@
 
 - Located in Colombia 
 - Studying in Universidad Distrital Francisco Jose de Caldas
-- French:fr:, German:de:, Spanish:es: and English:us:
+- French 🇫🇷 , German :de: , Spanish :es: and English :us:
 - I like animes series 
 - Contact me through LinkedIn and Instagram
 
