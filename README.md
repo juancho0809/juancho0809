@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- Located in Colombia 
+- Studying in Universidad Distrital Francisco Jose de Caldas
+- French, German, Spanish and English
+- I like animes series
+- Contact me through LinkedIn and Instagram
+
+![Luffy](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nintenderos.com%2F2023%2F05%2Fcumpleanos-monkey-d-luffy-one-piece%2F&psig=AOvVaw37TspdBFVu9Dtt-3Ascru4&ust=1712634582499000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDp1bHcsYUDFQAAAAAdAAAAABAE)
+
 <!--
 **juancho0809/juancho0809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
