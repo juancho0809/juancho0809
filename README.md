@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - Located in Colombia 
-- Studying in Universidad Distrital Francisco Jose de Caldas
+- Studying systems engineering  in Universidad Distrital Francisco Jose de Caldas
+- I'm interested about Machine Learning, Python, Software
 - French 🇫🇷 , German :de: , Spanish :es: and English :us:
 - I like animes series 
 - Contact me through LinkedIn and Instagram
