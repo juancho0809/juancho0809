@@ -25,7 +25,7 @@ I'm currently exploring opportunities to apply my skills in **AI**, **BI**, and 
 ---
 
 ### **Let's Connect!**
-📫 Reach out to me on [LinkedIn](your-linkedin-link) or [Instagram](your-instagram-link).  
+📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/juandiego-lozada/) or [Instagram](https://www.instagram.com/juancho_0809_/).  
 💼 Check out my repositories below to see my work!  
 
 ![Gojo](gif.webp)
